@@ -1,7 +1,7 @@
 Pong
 ====
 
-This is my first game ever.
+My first game ever.
 
 Building
 --------
