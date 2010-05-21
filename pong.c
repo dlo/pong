@@ -210,11 +210,11 @@ int main(int argc, char** argv) {
 	glutTimerFunc(25, update, 0);
 
 	glewInit();
-    if (!GLEW_VERSION_2_0) {
-        fprintf(stderr, "OpenGL 2.0 not available\n");
-        return 1;
-    }
+	if (!GLEW_VERSION_2_0) {
+		fprintf(stderr, "OpenGL 2.0 not available\n");
+		return 1;
+	}
 
-    glutMainLoop();
-    return 0;
+	glutMainLoop();
+	return 0;
 }
