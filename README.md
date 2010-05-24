@@ -10,7 +10,11 @@ Before you compile, make sure you have the GLEW libraries. To build it, just run
 
     make pong
 
-I've only run this on OSX Snow Leopard, so I have no idea how / if it will build on other platforms.
+Platforms
+---------
+
+* Windows
+* OS X
 
 Gameplay
 --------

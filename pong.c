@@ -1,12 +1,18 @@
+#ifdef __WIN32
+#  include <windows.h>
+#endif
+
 #include <stdlib.h>
+#include <stdio.h>
+
 #include <GL/glew.h>
 #ifdef __APPLE__
 #  include <GLUT/glut.h>
 #else
 #  include <GL/glut.h>
 #endif
+
 #include <math.h>
-#include <stdio.h>
 
 #define NO_COLLISION_DETECTED 0
 #define BOTTOM_PADDLE_COLLISION 1
