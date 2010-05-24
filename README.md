@@ -13,7 +13,7 @@ Before you compile, make sure you have the GLEW libraries. To build it, just run
 Platforms
 ---------
 
-* Windows
+* Windows (props to [@code_head](http://twitter.com/code_head) for this)
 * OS X
 
 Gameplay
