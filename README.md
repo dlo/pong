@@ -6,7 +6,11 @@ My first game ever.
 Building
 --------
 
-Before you compile, make sure you have the GLEW libraries. To build it, just run
+Before you compile, make sure you have the GLEW libraries. On Mac OS X:
+
+    brew install glew
+
+After you've installed them, just run
 
     make pong
 
