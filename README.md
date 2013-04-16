@@ -1,8 +1,6 @@
 Pong
 ====
 
-My first game ever.
-
 Building
 --------
 
