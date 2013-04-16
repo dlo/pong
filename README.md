@@ -14,6 +14,10 @@ After you've installed them, just run
 
     make pong
 
+Then, `./pong`, and behold:
+
+![Video](https://raw.github.com/dlo/pong/master/video.gif)
+
 Platforms
 ---------
 
