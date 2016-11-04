@@ -1,5 +1,5 @@
-GLEW_INCLUDE = /opt/local/include
-GLEW_LIB = /opt/local/lib
+GLEW_INCLUDE = /usr/local/opt/include
+GLEW_LIB = /usr/local/opt
 
 pong: pong.o
 	gcc -o pong $^ -framework GLUT -framework OpenGL -L$(GLEW_LIB) -lGLEW
